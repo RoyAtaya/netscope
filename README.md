@@ -6,7 +6,7 @@ protocol data in a terminal UI.
 
 ## Goals
 - Learn L2/L3 networking protocols hands-on
-- Practice modern C++ (C++17)
+- Practice modern C++ (C++23)
 - Build toward parsing: Ethernet, ARP, IPv4, TCP/UDP, DNS, BGP, OSPF, STP, LLDP, LACP
 
 ## Dependencies
